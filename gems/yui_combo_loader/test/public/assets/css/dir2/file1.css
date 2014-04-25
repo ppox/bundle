@@ -1,0 +1,5 @@
+public/css/dir2/file1.css
+span.avatar  { background-image: url(avatar.png) }
+span.avatar2 { background-image: url('avatar2.png') }
+span.avatar3 { width: 50px; background-image: url( "avatar3.png"  ); height: 50px; }
+span.spacer  { background-image: url('data:image/jpeg;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAEBMgA7') }
